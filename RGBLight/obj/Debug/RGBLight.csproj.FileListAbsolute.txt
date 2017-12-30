@@ -1,0 +1,11 @@
+E:\Coding\C#\RGBLight\RGBLight\RGBLight\bin\Debug\RGBLight.exe.config
+E:\Coding\C#\RGBLight\RGBLight\RGBLight\bin\Debug\RGBLight.exe
+E:\Coding\C#\RGBLight\RGBLight\RGBLight\bin\Debug\RGBLight.pdb
+E:\Coding\C#\RGBLight\RGBLight\RGBLight\obj\Debug\RGBLight.csprojResolveAssemblyReference.cache
+E:\Coding\C#\RGBLight\RGBLight\RGBLight\obj\Debug\RGBLight.csproj.CoreCompileInputs.cache
+E:\Coding\C#\RGBLight\RGBLight\RGBLight\obj\Debug\RGBLight.exe
+E:\Coding\C#\RGBLight\RGBLight\RGBLight\obj\Debug\RGBLight.pdb
+E:\Coding\C#\RGBLight\RGBLight\RGBLight\bin\Debug\LightClassLibrary1.dll
+E:\Coding\C#\RGBLight\RGBLight\RGBLight\bin\Debug\LightClassLibrary1.pdb
+E:\Coding\C#\RGBLight\RGBLight\RGBLight\bin\Debug\Common.dll
+E:\Coding\C#\RGBLight\RGBLight\RGBLight\bin\Debug\Common.pdb
